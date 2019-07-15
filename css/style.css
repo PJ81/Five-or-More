@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: slategray;
+    margin: auto;
+    margin-top: 60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#main {
+    background-color: LightGray;
+    border: 2px solid black;
+    border-radius: 3px
+}
+
+#next {
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: gainsboro
+}
+
+#hud {
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: gainsboro
+}
